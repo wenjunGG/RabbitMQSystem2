@@ -1,0 +1,24 @@
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\ConsoleApplicationRabbitMQ.Receive.exe.config
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\ConsoleApplicationRabbitMQ.Receive.exe
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\ConsoleApplicationRabbitMQ.Receive.pdb
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\RabbitMQ.Core.dll
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\RabbitMQ.Client.dll
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\Newtonsoft.Json.dll
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\RabbitMQ.Core.pdb
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\RabbitMQ.Client.xml
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\Newtonsoft.Json.xml
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\obj\Debug\ConsoleApplicationRabbitMQ.Receive.exe
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\obj\Debug\ConsoleApplicationRabbitMQ.Receive.pdb
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\obj\Debug\ConsoleApplicationRabbitMQ.Receive.Error.csprojResolveAssemblyReference.cache
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\ConsoleApplicationRabbitMQ.Receive.exe.config
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\ConsoleApplicationRabbitMQ.Receive.exe
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\ConsoleApplicationRabbitMQ.Receive.pdb
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\RabbitMQ.Core.dll
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\RabbitMQ.Core.pdb
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\obj\Debug\ConsoleApplicationRabbitMQ.Receive.Error.csprojResolveAssemblyReference.cache
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\obj\Debug\ConsoleApplicationRabbitMQ.Receive.exe
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\obj\Debug\ConsoleApplicationRabbitMQ.Receive.pdb

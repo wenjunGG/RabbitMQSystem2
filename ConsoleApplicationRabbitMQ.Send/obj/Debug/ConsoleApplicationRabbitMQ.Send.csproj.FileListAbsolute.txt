@@ -1,0 +1,24 @@
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\bin\Debug\ConsoleApplicationRabbitMQ.Send.exe.config
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\bin\Debug\ConsoleApplicationRabbitMQ.Send.exe
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\bin\Debug\ConsoleApplicationRabbitMQ.Send.pdb
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\bin\Debug\RabbitMQ.Core.dll
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\bin\Debug\RabbitMQ.Client.dll
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\bin\Debug\Newtonsoft.Json.dll
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\bin\Debug\RabbitMQ.Core.pdb
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\bin\Debug\RabbitMQ.Client.xml
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\bin\Debug\Newtonsoft.Json.xml
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\obj\Debug\ConsoleApplicationRabbitMQ.Send.csprojResolveAssemblyReference.cache
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\obj\Debug\ConsoleApplicationRabbitMQ.Send.exe
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\obj\Debug\ConsoleApplicationRabbitMQ.Send.pdb
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\bin\Debug\ConsoleApplicationRabbitMQ.Send.exe.config
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\bin\Debug\ConsoleApplicationRabbitMQ.Send.exe
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\bin\Debug\ConsoleApplicationRabbitMQ.Send.pdb
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\bin\Debug\RabbitMQ.Core.dll
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\bin\Debug\RabbitMQ.Core.pdb
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\obj\Debug\ConsoleApplicationRabbitMQ.Send.csprojResolveAssemblyReference.cache
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\obj\Debug\ConsoleApplicationRabbitMQ.Send.exe
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Send\obj\Debug\ConsoleApplicationRabbitMQ.Send.pdb

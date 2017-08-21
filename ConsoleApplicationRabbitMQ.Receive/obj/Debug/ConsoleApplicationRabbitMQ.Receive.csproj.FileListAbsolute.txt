@@ -1,0 +1,12 @@
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\ConsoleApplicationRabbitMQ.Receive.exe.config
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\ConsoleApplicationRabbitMQ.Receive.exe
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\ConsoleApplicationRabbitMQ.Receive.pdb
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\RabbitMQ.Core.dll
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\RabbitMQ.Client.dll
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\Newtonsoft.Json.dll
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\RabbitMQ.Core.pdb
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\RabbitMQ.Client.xml
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\bin\Debug\Newtonsoft.Json.xml
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\obj\Debug\ConsoleApplicationRabbitMQ.Receive.csprojResolveAssemblyReference.cache
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\obj\Debug\ConsoleApplicationRabbitMQ.Receive.exe
+D:\Test2\RabbitMQSystem2\ConsoleApplicationRabbitMQ.Receive\obj\Debug\ConsoleApplicationRabbitMQ.Receive.pdb

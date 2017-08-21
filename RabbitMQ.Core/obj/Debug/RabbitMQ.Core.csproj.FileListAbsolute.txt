@@ -1,0 +1,18 @@
+D:\Test2\RabbitMQSystem2\RabbitMQ.Core\bin\Debug\RabbitMQ.Core.dll
+D:\Test2\RabbitMQSystem2\RabbitMQ.Core\bin\Debug\RabbitMQ.Core.pdb
+D:\Test2\RabbitMQSystem2\RabbitMQ.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Test2\RabbitMQSystem2\RabbitMQ.Core\bin\Debug\RabbitMQ.Client.dll
+D:\Test2\RabbitMQSystem2\RabbitMQ.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Test2\RabbitMQSystem2\RabbitMQ.Core\bin\Debug\RabbitMQ.Client.xml
+D:\Test2\RabbitMQSystem2\RabbitMQ.Core\obj\Debug\RabbitMQ.Core.csprojResolveAssemblyReference.cache
+D:\Test2\RabbitMQSystem2\RabbitMQ.Core\obj\Debug\RabbitMQ.Core.dll
+D:\Test2\RabbitMQSystem2\RabbitMQ.Core\obj\Debug\RabbitMQ.Core.pdb
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\RabbitMQ.Core\bin\Debug\RabbitMQ.Core.dll
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\RabbitMQ.Core\bin\Debug\RabbitMQ.Core.pdb
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\RabbitMQ.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\RabbitMQ.Core\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\RabbitMQ.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\RabbitMQ.Core\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\RabbitMQ.Core\obj\Debug\RabbitMQ.Core.csprojResolveAssemblyReference.cache
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\RabbitMQ.Core\obj\Debug\RabbitMQ.Core.dll
+C:\Users\Lewis\Documents\Tencent Files\847055719\FileRecv\RabbitMQ C# 封装\RabbitMQ C# 封装\RabbitMQSystem2\RabbitMQ.Core\obj\Debug\RabbitMQ.Core.pdb
