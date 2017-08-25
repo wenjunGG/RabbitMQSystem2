@@ -1,6 +1,7 @@
 ﻿using Newtonsoft.Json;
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
+using RabbitMQ.Client.MessagePatterns;
 using RabbitMQ.Core.Model;
 using System;
 using System.Collections.Generic;
@@ -78,48 +79,64 @@ namespace RabbitMQ.Core.Service
                     //消费队列，并设置应答模式为程序主动应答
                     channel.BasicConsume(this.RabbitConfig.QueueName, false, consumer);
 
-                    while (true)
+                    //while (true)
+                    //{
+                    //    //阻塞函数，获取队列中的消息
+                    //    ProcessingResultsEnum processingResult = ProcessingResultsEnum.Retry;
+                    //    ulong deliveryTag = 0;
+                    //    try
+                    //    {
+                    //        Thread.Sleep(500);//暂停0.5秒，防止CPU爆满的问题
+
+                    //        //获取信息
+                    //        var ea = (BasicDeliverEventArgs)consumer.Queue.Dequeue();
+                    //        deliveryTag = ea.DeliveryTag;
+                    //        byte[] bytes = ea.Body;
+                    //        string str = Encoding.UTF8.GetString(bytes);
+                    //        T v = JsonConvert.DeserializeObject<T>(str);
+                    //        receiveMethod(v);
+
+                    //        processingResult = ProcessingResultsEnum.Accept; //处理成功
+                    //    }
+                    //    catch (Exception ex)
+                    //    {
+                    //        processingResult = ProcessingResultsEnum.Reject; //系统无法处理的错误
+                    //    }
+                    //    finally
+                    //    {
+                    //        switch (processingResult)
+                    //        {
+                    //            case ProcessingResultsEnum.Accept:
+                    //                //回复确认处理成功
+                    //                channel.BasicAck(deliveryTag, false);
+                    //                break;
+                    //            case ProcessingResultsEnum.Retry:
+                    //                //发生错误了，但是还可以重新提交给队列重新分配
+                    //                channel.BasicNack(deliveryTag, false, true);
+                    //                break;
+                    //            case ProcessingResultsEnum.Reject:
+                    //                //发生严重错误，无法继续进行，这种情况应该写日志或者是发送消息通知管理员
+                    //                channel.BasicNack(deliveryTag, false, false);
+
+                    //                //写日志
+                    //                break;
+                    //        }
+                    //    }
+                    //}
+
+                    using (var subscription = new Subscription(channel, this.RabbitConfig.QueueName, false))
                     {
-                        //阻塞函数，获取队列中的消息
-                        ProcessingResultsEnum processingResult = ProcessingResultsEnum.Retry;
-                        ulong deliveryTag = 0;
-                        try
+                        Console.WriteLine("等待消息...");
+                        var encoding = new UTF8Encoding();
+                        while (channel.IsOpen)
                         {
-                            Thread.Sleep(500);//暂停0.5秒，防止CPU爆满的问题
-
-                            //获取信息
-                            var ea = (BasicDeliverEventArgs)consumer.Queue.Dequeue();
-                            deliveryTag = ea.DeliveryTag;
-                            byte[] bytes = ea.Body;
-                            string str = Encoding.UTF8.GetString(bytes);
-                            T v = JsonConvert.DeserializeObject<T>(str);
-                            receiveMethod(v);
-
-                            processingResult = ProcessingResultsEnum.Accept; //处理成功
-                        }
-                        catch (Exception ex)
-                        {
-                            processingResult = ProcessingResultsEnum.Reject; //系统无法处理的错误
-                        }
-                        finally
-                        {
-                            switch (processingResult)
-                            {
-                                case ProcessingResultsEnum.Accept:
-                                    //回复确认处理成功
-                                    channel.BasicAck(deliveryTag, false);
-                                    break;
-                                case ProcessingResultsEnum.Retry:
-                                    //发生错误了，但是还可以重新提交给队列重新分配
-                                    channel.BasicNack(deliveryTag, false, true);
-                                    break;
-                                case ProcessingResultsEnum.Reject:
-                                    //发生严重错误，无法继续进行，这种情况应该写日志或者是发送消息通知管理员
-                                    channel.BasicNack(deliveryTag, false, false);
-
-                                    //写日志
-                                    break;
-                            }
+                            BasicDeliverEventArgs eventArgs;
+                            var success = subscription.Next(2000, out eventArgs);
+                            if (success == false) continue;
+                            var msgBytes = eventArgs.Body;
+                            var message = encoding.GetString(msgBytes);
+                            Console.WriteLine(message);
+                            channel.BasicAck(eventArgs.DeliveryTag, false);
                         }
                     }
                 }

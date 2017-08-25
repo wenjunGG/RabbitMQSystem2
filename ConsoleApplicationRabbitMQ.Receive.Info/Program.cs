@@ -21,11 +21,11 @@ namespace ConsoleApplicationRabbitMQ.Receive.Info
                 Port = 5672,
                 VirtualHost = "loghostsfanout",
                 DurableQueue = true,
-                QueueName = "loghosts_system_info_fanout",
-                Exchange = "ex1_fanout",
-                ExchangeType = ExchangeTypeEnum.fanout,
+                QueueName = "loghosts_system_info_Topic1",
+                Exchange = "ex1_Topic",
+                ExchangeType = ExchangeTypeEnum.topic,
                 DurableMessage = true,
-                RoutingKey = "system.info_fanout"
+                RoutingKey = "system.*"
             });
 
             Program p = new Program();

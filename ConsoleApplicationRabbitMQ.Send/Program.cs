@@ -31,8 +31,8 @@ namespace ConsoleApplicationRabbitMQ.Send
                 VirtualHost = "loghostsfanout",
                 DurableQueue = true,
                 QueueName = "",
-                Exchange = "ex1_fanout",
-                ExchangeType = ExchangeTypeEnum.fanout,
+                Exchange = "ex1_Topic",
+                ExchangeType = ExchangeTypeEnum.topic,
                 DurableMessage = true,
                 RoutingKey = "bug" //bug error info
             });
@@ -43,13 +43,13 @@ namespace ConsoleApplicationRabbitMQ.Send
                 switch (index)
                 {
                     case 1:
-                        mq.RabbitConfig.RoutingKey = "system.error_fanout";
+                        mq.RabbitConfig.RoutingKey = "system.error_Topic";
                         break;
                     case 2:
-                        mq.RabbitConfig.RoutingKey = "system.info_fanout";
+                        mq.RabbitConfig.RoutingKey = "system.info_Topic";
                         break;
                     case 3:
-                        mq.RabbitConfig.RoutingKey = "system.bug_fanout";
+                        mq.RabbitConfig.RoutingKey = "system.bug_Topic";
                         break;
                 }
 
